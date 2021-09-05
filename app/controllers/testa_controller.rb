@@ -1,0 +1,2 @@
+class TestaController < ApplicationController
+end
